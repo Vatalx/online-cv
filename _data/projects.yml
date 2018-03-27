@@ -5,12 +5,12 @@ projects:
     link: "#https://github.com/IvanPerez9/FitURJC"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
     
-  #- project: 
-    # title: MOOC:Ciberseguridad ataques y contramedidas
-    # link: "#urjcx.urjc.es/"
-   #  tagline: "Learn basic concepts of cybersecurity, the main attacks and the necessary countermeasures to deal with it"
+  - project: 
+    title: MOOC:Ciberseguridad ataques y contramedidas
+    link: "#urjcx.urjc.es/"
+    tagline: "Learn basic concepts of cybersecurity, the main attacks and the necessary countermeasures to deal with it"
     
-  # - project: 
-  #   title: MOOC:Cómo gestionar el desarrollo tecnológico de una startup
-   #  link: "#urjcx.urjc.es/"
-    # tagline: "Technology and business model based on the Web, agility and mobility"
+  - project: 
+    title: MOOC:Cómo gestionar el desarrollo tecnológico de una startup
+    link: "#urjcx.urjc.es/"
+    tagline: "Technology and business model based on the Web, agility and mobility"

@@ -14,7 +14,7 @@ style: styles-5
 
 
 #Profile information
-name: Iván Pérez
+name: Iván Pérez Huete
 tagline: Software Engineering Student
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
@@ -25,7 +25,7 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 #sidebar links
 email: iperezhuete@gmail.com
 phone: -----
-linkedin: ivanperez
+linkedin: Iván Pérez Huete
 github: IvanPerez9
 twitter: '@Ivan_Prz12'
 #Update all the sections by editing the files inside _data folder.

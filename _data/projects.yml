@@ -1,5 +1,8 @@
-
 projects and other achievements:
+  - project:
+    title: FitURJC
+    link: "#https://github.com/IvanPerez9/FitURJC"
+    tagline: "A responsive website template designed to help startups promote, market and sell their products."
   - project: 
     title: MOOC:Ciberseguridad: ataques y contramedidas
     link: "#urjcx.urjc.es/"
